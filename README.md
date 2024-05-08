@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name is Zhou FANG.
+- 😄 I'm a 2nd year PhD student in National University of NUS | @MatheXLab
+- 🌱 I’m currently working on AI4Dynamics (AI4Weather&Climate) and Dynamics4AI
+- ⚡ Fun fact: The pronunciation of "fang" is "fun"! Cheers!
 <!--
 **ZhousLab/ZhousLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
