@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Zhou FANG.
-- 😄 I'm a 2nd year PhD student in National University of NUS | @MatheXLab
+- 😄 I'm a 2nd year PhD student in National University of NUS | @MathEXLab
 - 🌱 I’m currently working on AI4Dynamics (AI4Weather&Climate) and Dynamics4AI
 - ⚡ Fun fact: The pronunciation of "fang" is "fun"! Cheers!
 <!--
